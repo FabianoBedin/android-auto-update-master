@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="android_auto_update_dialog_title">nova versão encontrada</string>
+
+    <string name="android_auto_update_notify_ticker">Encontrou uma nova versão, clique para atualizar</string>
+    <string name="android_auto_update_notify_content">Encontrou uma nova versão, clique para atualizar</string>
+
+    <string name="android_auto_update_dialog_btn_download">baixe imediatamente</string>
+    <string name="android_auto_update_dialog_btn_cancel">fale sobre isso mais tarde</string>
+
+    <string name="android_auto_update_toast_no_new_update">Já é a versão mais recente</string>
+
+    <string name="android_auto_update_download_progress">baixando:%1$d%%</string>
+
+    <string name="android_auto_update_dialog_checking">Verificando versão</string>
+
+
+</resources>
